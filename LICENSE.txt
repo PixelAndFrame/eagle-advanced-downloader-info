@@ -1,0 +1,22 @@
+Eagle Advanced Downloader — Free Use License (proprietary)
+
+You may install and use the unmodified extension free of charge for personal
+and commercial purposes. You may make backup copies for your own use.
+An Eagle application license, where required, is separate and is not included.
+
+This is not an open-source license. Except where applicable law permits
+otherwise, you may not redistribute, sublicense, sell, modify, or publish the
+extension, its source code, or its artwork without permission from the relevant
+rights holder. To share the extension, share its official store listing link.
+Inspecting readable source does not itself grant redistribution rights.
+Rights not expressly granted remain with their respective rights holders.
+
+Only collect media you have permission to save. This license grants no rights
+to third-party media, websites, trademarks, or the Eagle application.
+Eagle Advanced Downloader is an independent project and is not affiliated
+with or endorsed by the makers of Eagle or the browser vendors.
+
+The extension is provided "as is", without warranties, to the extent allowed
+by applicable law. Mandatory statutory rights are not excluded or restricted.
+For permission requests and support, use the publisher contact on the official
+store listing from which you obtained the extension.
